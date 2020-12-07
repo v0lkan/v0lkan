@@ -2,7 +2,11 @@
 
 It’s me Volkan.
 
-I’m a crazy-maker and I solve problems. As an engineer, I solve problems: The context, the origin, or the nature of those problems are orthogonal to the approaches he takes in solving them. He’s simplistic, pragmatic, and to-the-point.
+I’m a crazy-maker who solves problems, and occasionally creates some. 
+
+As an engineer, I solve problems: The context, the origin, or the nature of those problems are orthogonal to the approaches he takes in solving them.
+
+I’m simplistic, pragmatic, and (*mostly*) to-the-point 🙃.
 
 You can find more of me at…
 
