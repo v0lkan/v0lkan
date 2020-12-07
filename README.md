@@ -2,7 +2,7 @@
 
 I’m a crazy-maker who solves problems, and occasionally creates some. 
 
-The context, the origin, or the nature of those problems are orthogonal to the approaches he takes in solving them.
+The context, the origin, or the nature of those problems are orthogonal to the approaches I take in solving them.
 
 I’m simplistic, pragmatic, and (*mostly*) to-the-point 🙃.
 
