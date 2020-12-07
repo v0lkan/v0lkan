@@ -1,6 +1,4 @@
-### Hi there 👋
-
-It’s me Volkan.
+### Hi I’m Volkan 👋
 
 I’m a crazy-maker who solves problems, and occasionally creates some. 
 
