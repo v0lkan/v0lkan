@@ -13,4 +13,4 @@ You can find more of me at…
     * ☝️ Catching me up live on *Twitch* is also the best way to reach me, too.
 * 💬 [**ZeroToHero** has a **Discord** server too, free for everyone to join](https://discord.gg/fAucgWz).
 * 🦄 [Related to that, **zerotohero.dev** is the Learning Management System that I’m currently working on](https://zerotohero.dev).
-* 🌲 [Here’s my LinkTree](https://linktr.ee/v0lkan).
+* 🌲 [Here’s my **LinkTree**](https://linktr.ee/v0lkan).
