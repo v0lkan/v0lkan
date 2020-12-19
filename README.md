@@ -6,7 +6,7 @@ The context, the origin, or the nature of those problems are orthogonal to the a
 
 I’m simplistic, pragmatic, and (*mostly*) to-the-point 🙃.
 
-## Find More About Me
+## About Me
 
 * 🌲 [Here’s my **LinkTree**](https://linktr.ee/v0lkan).
 * 🏡 [You can find more of me at **volkan.io**](https://volkan.io/).
@@ -17,4 +17,3 @@ I’m simplistic, pragmatic, and (*mostly*) to-the-point 🙃.
   * ☝️ Catching me up live on *Twitch* is also the best way to reach me, too.
 * 💬 [**ZeroToHero** has a **Discord** server too, free for everyone to join](https://discord.gg/fAucgWz).
 * 🦄 [Related to that, **zerotohero.dev** is the Learning Management System that I’m currently working on](https://zerotohero.dev).
-
