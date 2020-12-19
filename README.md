@@ -11,7 +11,7 @@ I’m simplistic, pragmatic, and (*mostly*) to-the-point 🙃.
 * 🌲 [Here’s my **LinkTree**](https://linktr.ee/v0lkan).
 * 🏡 [You can find more of me at **volkan.io**](https://volkan.io/).
 
-## ZeroToHero?
+## ZeroToHero
 
 * 🎥 [You can watch me code live on **ZeroToHero** Twitch live streams (*Tue, Thu, Sun*)](https://twitch.tv/ZeroToHeroDev).
   * ☝️ Catching me up live on *Twitch* is also the best way to reach me, too.
