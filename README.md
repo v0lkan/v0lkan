@@ -9,7 +9,7 @@ I’m simplistic, pragmatic, and (*mostly*) to-the-point 🙃.
 ## About Me
 
 * 🌲 [Here’s my **LinkTree**](https://linktr.ee/v0lkan).
-* 🏡 [You can find more of me at **volkan.io**](https://volkan.io/).
+* 🏡 [You can find more about me at **volkan.io**](https://volkan.io/).
 
 ## ZeroToHero
 
