@@ -13,6 +13,14 @@ I’m simplistic, pragmatic, and (*mostly*) to-the-point 🙃.
 
 ## ZeroToHero
 
+> **Note** 
+>
+> Because of (gestures at everything) I’ve paused my ZeroToHero Twitch coding streams for a while.
+>
+> You can still watch the archived videos though.
+>
+> Cheers and may the source be with you.
+
 * 🎥 [You can watch me code live on **ZeroToHero** Twitch live streams (*Tue, Thu, Sun*)](https://twitch.tv/ZeroToHeroDev).
   * ☝️ Catching me up live on *Twitch* is also the best way to reach me, too.
 * 💬 [**ZeroToHero** has a **Discord** server too, free for everyone to join](https://discord.gg/fAucgWz).
