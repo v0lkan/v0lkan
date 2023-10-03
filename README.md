@@ -14,6 +14,8 @@ I have moved most of my repositories from my personal GitHub to [**Zero to Hero*
 
 If you want to see a sample of my source code and contributions, [**Zero to Hero** GitHub Organization][z2h] could be a good place to start.
 
+[z2h]: http://github.com/zerotohero-dev "Zero to Hero"
+
 ## Thanks
 
 That’s about it.
